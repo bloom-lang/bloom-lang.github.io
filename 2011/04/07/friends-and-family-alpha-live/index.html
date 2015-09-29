@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>bud alpha live | Bloom Programming Language</title>
+<!-- Platform WordPress Framework By PageLines - www.PageLines.com -->
+<link rel="shortcut icon" href="../wp-content/uploads/2011/03/favicon-2.ico" type="image/x-icon" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<!--[if lt IE 8]> <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script> <![endif]--><link rel="alternate" type="application/rss+xml" title="Bloom Programming Language &raquo; Feed" href="blog/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bloom Programming Language &raquo; Comments Feed" href="comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bloom Programming Language &raquo; bud alpha live Comments Feed" href="2011/04/07/friends-and-family-alpha-live/feed/" />
+<link rel='stylesheet' id='pagelines-stylesheet-css'  href='../wp-content/themes/platform/style.css' type='text/css' media='all' />
+<!--[if IE 7]>
+<link rel='stylesheet' id='ie7-style-css'  href='../wp-content/themes/platform/css/ie7.css?ver=1.4.4' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='jetpack_css-css'  href='../wp-content/plugins/jetpack/css/jetpack.css?ver=3.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='superfish-css'  href='../wp-content/themes/platform/sections/nav/superfish.css?ver=1.4.4' type='text/css' media='screen' />
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel='next' title='bud 0.0.4 released' href='2011/06/06/bud-0-0-4-released/' />
+<meta name="generator" content="WordPress 4.3.1" />
+<link rel='canonical' href='2011/04/07/friends-and-family-alpha-live/' />
+<link rel='shortlink' href='http://wp.me/p1rUO5-25' />
+		
+<script type="text/javascript"> /* <![CDATA[ */ jQuery(document).ready(function() {  jQuery('ul.sf-menu').superfish({ delay: 100, speed: 'fast', autoArrows:  1, dropShadows: 1 });  }); /* ]]> */ </script>			
+
+<link rel="stylesheet" id="dynamic-css" href="../wp-content/themes/platform/css/dynamic.css?ver=144-082115175021" type="text/css" media="all" />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="bud alpha live" />
+<meta property="og:url" content="2011/04/07/friends-and-family-alpha-live/" />
+<meta property="og:description" content="Today we released the Friends and Family alpha version of Bud: an implementation of Bloom as a Ruby DSL. To quote from the intro document: We had three main goals in preparing this release. The fir…" />
+<meta property="article:published_time" content="2011-04-07T22:56:55+00:00" />
+<meta property="article:modified_time" content="2011-04-08T04:57:33+00:00" />
+<meta property="og:site_name" content="Bloom Programming Language" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:card" content="summary" />
+</head>
+<body class="single single-post postid-129 single-format-standard full_width ttype-single tmain-single">
+<div id="site" class="one-sidebar-right"> <!-- #site // Wraps #header, #page-main, #footer - closed in footer -->
+	<div id="page"> <!-- #page // Wraps #header, #page-main - closed in footer -->
+		<div id="page-canvas">
+						<div id="header" class="container-group fix">
+				<div class="outline">
+					<div id="branding" class="container fix">
+	<div class="texture">
+		<div class="content">
+			<div class="content-pad">
+<div class="branding_wrap">
+	<a class="mainlogo-link" href="http://www.bloom-lang.net" title="Bloom Programming Language"><img class="mainlogo-img" src="../wp-content/uploads/2011/04/bloomlogoleft2.png" alt="Bloom Programming Language" /></a>		
+	
+	<div class="icons" style="bottom: 0px; right: px;">
+
+		
+																			</div>
+</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="primary-nav" class="container fix">
+	<div class="texture">
+		<div class="content">
+			<div class="content-pad">
+	<div id="nav_row" class="main_nav fix">
+<ul id="menu-navigation" class="main-nav sf-menu"><li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a title="bloom programming language" href="http://www.bloom-lang.net">home</a></li>
+<li id="menu-item-141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141"><a href="../getstarted/">get started</a></li>
+<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a title="bud: bloom under development" href="../bud/">bud</a></li>
+<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="../features/">features</a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a title="bloom research" href="../research/">research</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a title="the calm principle" href="../calm/">calm</a></li>
+<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="../support/">thx</a></li>
+<li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="../faq/">FAQ</a></li>
+</ul><form method="get" class="searchform" action="" onsubmit="this.submit();return false;">
+	<fieldset>
+		<input type="text" value="Search" name="s" class="searchfield" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" />
+
+		<input type="image" class="submit btn" name="submit" src="../wp-content/themes/platform/images/search-btn.png" alt="Go" />
+	</fieldset>
+</form>
+	</div>
+
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+</div>
+				</div>
+			</div>
+						<div id="page-main" class="container-group fix"> <!-- #page-main // closed in footer -->
+				<div id="dynamic-content" class="outline fix">
+					<div id="maincontent" class="container fix">
+	<div class="texture">
+		<div class="content">
+			<div class="content-pad">
+<div id="pagelines_content" class="one-sidebar-right fix">
+	
+		<div id="column-wrap" class="fix">
+		
+				<div id="column-main" class="mcolumn fix">
+			<div class="mcolumn-pad" >
+				<div id="postnav" class="copy fix">
+	<div class="copy-pad">
+   			<div class="post-nav fix"> 
+			<span class="previous"></span> 
+			<span class="next"><a href="2011/06/06/bud-0-0-4-released/" rel="next">bud 0.0.4 released</a></span>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<div id="theloop" class="copy fix">
+	<div class="copy-pad">
+<div class="fpost post-129 post type-post status-publish format-standard hentry category-uncategorized" id="post-129">
+				
+				
+					
+						<div class="post-meta fix">	
+							
+							<div class="post-header fix post-nothumb" style="" >
+																<div class="post-title-section fix">
+
+									<div class="post-title fix">
+										
+										<h1 class="entry-title">bud alpha live</h1>
+<div class="metabar"><em><span class="sword">By</span> <span class="author vcard"><span class="fn"><a href="author/admin/" title="Posts by admin" rel="author">admin</a></span></span> <span class="sword">On</span> <span class="date time published" title="2011-04-07T22:56:55+0000">April 7, 2011</span>  &middot; <span class="post-comments"><a href="2011/04/07/friends-and-family-alpha-live/#comments">Leave a Comment</a></span>  </em></div>										
+									</div>
+
+
+								</div>
+															</div>				
+						</div>
+					
+					  	
+						<div class="entry_wrap fix">
+						
+							<div class="entry_content">
+								<p>Today we released the Friends and Family alpha version of Bud: an implementation of Bloom as a Ruby DSL.  To quote from the intro document:</p>
+<blockquote><p>We had three main goals in preparing this release. The first was to flesh out the shape of the Bloom language: initial syntax and semantics, and the &#8220;feel&#8221; of embedding it as a DSL. The second goal was to build tools for reasoning about Bloom programs: both automatic program analyses, and tools for surfacing those analyses to developers.<br />
+The third goal was to start a feedback loop with developers interested in the potential of the ideas behind the language.</p>
+<p>[&#8230;]<br />
+This alpha is targeted at &#8220;friends and family&#8221;, and at developers who&#8217;d like to become same. This is definitely the bleeding edge: we&#8217;re in a rapid cycle of learning about this new style of programming, and exposing what we learn in new iterations of the language. If you&#8217;d like to jump on the wheel with us and play with Bud, we&#8217;d love your feedback&#8211;both success stories and constructive criticism.</p></blockquote>
+<p><a href="http://bloom-lang.net/getstarted">Give it a spin</a> and <a href="http://groups.google.com/group/bloom-lang">let us know</a> what you think.</p>
+									<div class="clear"></div> 
+																</div>	
+							<div class="tags">
+								&nbsp;
+							</div>
+						</div>
+								</div>
+
+	<div class="clear"></div>
+	</div>
+</div>
+<div id="sharebar" class="copy fix">
+	<div class="copy-pad">
+			<div class="post-footer">
+
+					<div class="left">
+						If you enjoyed this article, please consider sharing it!	
+					</div>
+					<div class="right">
+																					<a href="http://reddit.com/submit?phase=2&amp;url=2011/04/07/friends-and-family-alpha-live/&amp;title=bud+alpha+live" title="Share on Reddit" rel="nofollow" target="_blank"><img src="../wp-content/themes/platform/images/ico-reddit.png" alt="Reddit" /></a>
+														
+															<a href="http://www.facebook.com/sharer.php?u=2011/04/07/friends-and-family-alpha-live/&amp;t=bud+alpha+live" title="Share on Facebook" rel="nofollow" target="_blank"><img src="../wp-content/themes/platform/images/ico-facebook.png" alt="Facebook" /></a>
+							 
+
+																							<a href="http://twitter.com/?status=bud alpha live - 2011/04/07/friends-and-family-alpha-live/" title="Share on Twitter" rel="nofollow" target="_blank"><img src="../wp-content/themes/platform/images/ico-twitter.png" alt="Twitter" /></a>
+							 
+
+															<a href="http://del.icio.us/post?url=2011/04/07/friends-and-family-alpha-live/&amp;title=bud+alpha+live" title="Share on Delicious" rel="nofollow" target="_blank"><img src="../wp-content/themes/platform/images/ico-del.png" alt="Delicious" /></a>
+														
+														
+														
+												</div>
+				<div class="clear"></div>
+			</div>
+	
+	<div class="clear"></div>
+	</div>
+</div>
+<div id="pl_comments" class="copy fix">
+	<div class="copy-pad">
+
+<div id="comments">
+	
+						<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2011/04/07/friends-and-family-alpha-live/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<p class="must-log-in">You must be <a href="wp-login.php?redirect_to=http%3A%2F%2Fwww.bloom-lang.net%2F2011%2F04%2F07%2Ffriends-and-family-alpha-live%2F">logged in</a> to post a comment.</p>												</div><!-- #respond -->
+			</div>
+	<div class="clear"></div>
+	</div>
+</div>
+<div id="pagination" class="copy fix">
+	<div class="copy-pad">
+				
+		<div class="clear"></div>
+	</div>
+</div>
+			</div>
+		</div>
+		
+				
+	</div>	
+	
+	
+	<div id="sidebar-wrap" class="fix">
+			<div id="sidebar1" class="scolumn fix" >
+				<div class="scolumn-pad">
+					<div id="sidebar_primary" class="copy fix">
+	<div class="copy-pad">
+	<ul id="list_sidebar_primary" class="sidebar_widgets fix">
+				<li id="recent-posts-3" class="widget_recent_entries widget fix"><div class="widget-pad">		<h3 class="widget-title">news</h3>		<ul>
+					<li>
+				<a href="2013/04/23/bud-0-9-7-released/">bud 0.9.7 released</a>
+						</li>
+					<li>
+				<a href="2013/02/25/bud-0-9-6-released/">bud 0.9.6 released</a>
+						</li>
+					<li>
+				<a href="2012/11/24/bud-0-9-5-released/">bud 0.9.5 released</a>
+						</li>
+				</ul>
+		</div></li><li id="linkcat-4" class="widget_links widget fix"><div class="widget-pad"><h3 class="widget-title">links</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="https://github.com/bloom-lang/bud" title="Source code and docs for Bloom on GitHub">GitHub</a></li>
+<li><a href="http://groups.google.com/group/bloom-lang" rel="me" title="Bloom Forum on Google Groups">Mailing List</a></li>
+<li><a href="http://boom.cs.berkeley.edu" rel="me" title="BOOM: Berkeley Orders Of Magnitude research project">BOOM project</a></li>
+
+	</ul>
+</div></li>
+	</ul>
+	<div class="clear"></div>
+	</div>
+</div>
+	
+				</div>
+			</div>
+			</div>		
+
+</div>				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+</div>
+</div> <!-- END #dynamic-content -->
+
+<div id="morefoot_area"><div id="morefoot" class="container fix">
+	<div class="texture">
+		<div class="content">
+			<div class="content-pad">
+								<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="twitterbar" class="container fix">
+	<div class="texture">
+		<div class="content">
+			<div class="content-pad">
+<div class="tbubble">
+			Set your Twitter account name in your settings to use the TwitterBar Section.</div>				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+<div class="clear"></div>
+				
+</div> <!-- END #page-main from header -->
+</div> <!-- END #page-canvas from header -->
+</div> <!-- END #page from header -->
+
+<div  id="footer">
+	<div class="outline fix"><div id="footcols" class="container fix">
+	<div class="texture">
+		<div class="content">
+			<div class="content-pad">
+			<div id="fcolumns_container" class="dcol_container_5 fix">
+				
+									<div class="dcol_5 dcol">
+						<div class="dcol-pad">
+															<h3 class="site-title">
+									<a class="home" href="http://www.bloom-lang.net" title="Home">
+										Bloom Programming Language									</a>
+								</h3>
+													</div>
+					</div>
+					<div class="dcol_5 dcol">
+						<div class="dcol-pad">
+							<h3 class="widget-title">Pages</h3>
+								<div class="footer-links list-links"><ul><li class="page_item page-item-14"><a href="../research/">bloom language: research</a></li><li class="page_item page-item-17"><a href="team/">bloom team</a></li><li class="page_item page-item-92"><a href="../faq/">FAQ</a></li><li class="page_item page-item-77"><a href="../features/">features</a></li><li class="page_item page-item-133"><a href="../getstarted/">get started with bud!</a></li><li class="page_item page-item-4"><a href="http://www.bloom-lang.net">home</a></li><li class="page_item page-item-87"><a href="../support/">thanks</a></li><li class="page_item page-item-10"><a href="../bud/">bud: bloom under development</a></li><li class="page_item page-item-36"><a href="../calm/">calm: consistency as logical monotonicity</a></li></ul></div>
+
+						</div>
+					</div>
+					<div class="dcol_5 dcol">
+						<div class="dcol-pad">
+							<h3 class="widget-title">The Latest</h3>
+								<ul class="latest_posts">
+																		<li class="list-item fix">
+											<div class="list_item_text">
+												<h5><a class="list_text_link" href="2013/04/23/bud-0-9-7-released/"><span class="list-title">bud 0.9.7 released</span></a></h5>
+												<div class="list-excerpt">Bud 0.9.7 has been released and is available for download via RubyGems.&nbsp;[&hellip;]</div>
+											</div>
+										</li>
+								</ul>
+						</div>
+					</div>
+					<div class="dcol_5 dcol">
+						<div class="dcol-pad">
+							<h3 class="widget-title">More</h3>
+							<div class="findent footer-more">
+															</div>
+						</div>
+					</div>
+					<div class="dcol_5 dcol">
+						<div class="dcol-pad">
+							<div class="findent terms">
+								© 2011 Regents of the University of California							</div>
+						</div>
+					</div>
+							</div>	
+			<div class="clear"></div>
+						<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="cred" class="pagelines"><a class="plimage" target="_blank" href="http://www.pagelines.com/" title="PageLines"><img src="../wp-content/themes/platform/images/pagelines.png" alt="Platform by PageLines" /></a></div><div class="clear"></div></div>
+</div>
+</div>
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='../wp-content/themes/platform/sections/nav/superfish.js?ver=1.0'></script>
+<script type='text/javascript' src='../wp-content/themes/platform/sections/nav/jquery.bgiframe.min.js?ver=1.0'></script>
+<a class = "github-ribbon" href="https://github.com/bloom-lang/bud"><img style="position: fixed; top: 0; right: 0; border: 0;z-index:100000" src="//s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a><script type='text/javascript' src='http://s0.wp.com/../wp-content/js/devicepx-jetpack.js?ver=201540'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Sepaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.3.1'></script>
+<script type='text/javascript' src='wp-includes/js/comment-reply.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201540.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.7.1',blog:'21429561',post:'129',tz:'0',srv:'www.bloom-lang.net'} ]);
+	_stq.push([ 'clickTrackerInit', '21429561', '129' ]);
+</script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: home</title>
+	<atom:link href="home/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.bloom-lang.net</link>
+	<description>Disorderly programming for the cloud and other distributed systems.</description>
+	<lastBuildDate>Wed, 23 Sep 2015 04:40:03 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>By: What are some cloud programming projects similar to Bloom? - Quora</title>
+		<link>http://www.bloom-lang.net#comment-22</link>
+		<dc:creator><![CDATA[What are some cloud programming projects similar to Bloom? - Quora]]></dc:creator>
+		<pubDate>Mon, 11 Jul 2011 22:54:02 +0000</pubDate>
+		<guid isPermaLink="false">http://www.hellersteins.org/bloom-lang/?page_id=4#comment-22</guid>
+		<description><![CDATA[[...] add a new questionAdd QuestionAdd QuestionWhat are some cloud programming projects similar to Bloom?&#160;&#160;Add AnswerBIU&#160;&#160;&#160;&#160;&#160;@&#160;&#160;&#160;Edit Link Text Show answer [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] add a new questionAdd QuestionAdd QuestionWhat are some cloud programming projects similar to Bloom?<a href="&nbsp;&nbsp;Add" rel="nofollow">&nbsp;&nbsp;Add</a> AnswerBIU&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@&nbsp;&nbsp;&nbsp;Edit Link Text Show answer [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: What are some software libraries for large scale learning? - Quora</title>
+		<link>http://www.bloom-lang.net#comment-20</link>
+		<dc:creator><![CDATA[What are some software libraries for large scale learning? - Quora]]></dc:creator>
+		<pubDate>Mon, 11 Jul 2011 04:37:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.hellersteins.org/bloom-lang/?page_id=4#comment-20</guid>
+		<description><![CDATA[[...] http://kx.com/kdb+.phpGNU Parallel: http://www.gnu.org/software/para...Bloom: This answer .Please specify the necessary improvements.&#160;Edit Link Text Show answer summary [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] <a href="http://kx.com/kdb+.phpGNU" rel="nofollow">http://kx.com/kdb+.phpGNU</a> Parallel: <a href="http://www.gnu.org/software/para" rel="nofollow">http://www.gnu.org/software/para</a>&#8230;Bloom: <a href="This" rel="nofollow">This</a> answer .Please specify the necessary improvements.&nbsp;Edit Link Text Show answer summary [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: What are some good resources for learning about distributed computing? - Quora</title>
+		<link>http://www.bloom-lang.net#comment-19</link>
+		<dc:creator><![CDATA[What are some good resources for learning about distributed computing? - Quora]]></dc:creator>
+		<pubDate>Mon, 11 Jul 2011 04:34:47 +0000</pubDate>
+		<guid isPermaLink="false">http://www.hellersteins.org/bloom-lang/?page_id=4#comment-19</guid>
+		<description><![CDATA[[...] out http://www.cascading.org/, http://clojure.org/ and http://github.com/bradford/infer , features/Learn about distributed hash tables (http://en.wikipedia.org/wiki/Dis... , [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] out http://www.cascading.org/, <a href="http://clojure.org/" rel="nofollow">http://clojure.org/</a> and http://github.com/bradford/infer , <a href="../features//Learn" rel="nofollow">features/Learn</a> about distributed hash tables (<a href="http://en.wikipedia.org/wiki/Dis" rel="nofollow">http://en.wikipedia.org/wiki/Dis</a>&#8230; , [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

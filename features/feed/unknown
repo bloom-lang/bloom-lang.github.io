@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: features</title>
+	<atom:link href="../features//feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.bloom-lang.net</link>
+	<description>Disorderly programming for the cloud and other distributed systems.</description>
+	<lastBuildDate>Wed, 23 Sep 2015 04:40:03 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>By: What are some good resources for learning about distributed computing? Why? &#124; The Data Quality Chronicle</title>
+		<link>features/#comment-609</link>
+		<dc:creator><![CDATA[What are some good resources for learning about distributed computing? Why? &#124; The Data Quality Chronicle]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2014 01:21:08 +0000</pubDate>
+		<guid isPermaLink="false">?page_id=77#comment-609</guid>
+		<description><![CDATA[[...] Check out http://www.cascading.org/, http://clojure.org/ , features/ [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Check out <a href="http://www.cascading.org/" rel="nofollow">http://www.cascading.org/</a>, <a href="http://clojure.org/" rel="nofollow">http://clojure.org/</a> , <a href="../features/" rel="nofollow">features/</a> [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Quora</title>
+		<link>features/#comment-4</link>
+		<dc:creator><![CDATA[Quora]]></dc:creator>
+		<pubDate>Fri, 15 Apr 2011 09:52:24 +0000</pubDate>
+		<guid isPermaLink="false">?page_id=77#comment-4</guid>
+		<description><![CDATA[&lt;strong&gt;What are some good resources for learning about distributed computing?...&lt;/strong&gt;
+
+(This list is incomplete. Edits and additions welcome.) * Start with Lin, Data-Intensive Text Processing with MapReduce, ISBN 1608453421, http://www.umiacs.umd.edu/~jimmylin/book.html * See Tom White, Hadoop: The Definitive Guide, ISBN 1449389732, http...]]></description>
+		<content:encoded><![CDATA[<p><strong>What are some good resources for learning about distributed computing?&#8230;</strong></p>
+<p>(This list is incomplete. Edits and additions welcome.) * Start with Lin, Data-Intensive Text Processing with MapReduce, ISBN 1608453421, <a href="http://www.umiacs.umd.edu/~jimmylin/book.html" rel="nofollow">http://www.umiacs.umd.edu/~jimmylin/book.html</a> * See Tom White, Hadoop: The Definitive Guide, ISBN 1449389732, http&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

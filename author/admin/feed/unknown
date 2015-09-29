@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bloom Programming Language &#187; admin</title>
+	<atom:link href="author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.bloom-lang.net</link>
+	<description>Disorderly programming for the cloud and other distributed systems.</description>
+	<lastBuildDate>Tue, 23 Apr 2013 04:15:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>bud 0.9.7 released</title>
+		<link>2013/04/23/bud-0-9-7-released/</link>
+		<comments>2013/04/23/bud-0-9-7-released/#comments</comments>
+		<pubDate>Tue, 23 Apr 2013 04:15:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">?p=213</guid>
+		<description><![CDATA[<p>Bud 0.9.7 has been released and is available for download via RubyGems. This release contains several significant bugfixes, some optimizations, and some new features. For more information, see the <a href="https://groups.google.com/d/msg/bloom-lang/4IjRHpYoaZg/6zXwUVkeq5wJ">release announcement</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Bud 0.9.7 has been released and is available for download via RubyGems. This release contains several significant bugfixes, some optimizations, and some new features. For more information, see the <a href="https://groups.google.com/d/msg/bloom-lang/4IjRHpYoaZg/6zXwUVkeq5wJ">release announcement</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>2013/04/23/bud-0-9-7-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>bud 0.9.6 released</title>
+		<link>2013/02/25/bud-0-9-6-released/</link>
+		<comments>2013/02/25/bud-0-9-6-released/#comments</comments>
+		<pubDate>Mon, 25 Feb 2013 21:03:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">?p=207</guid>
+		<description><![CDATA[<p>Bud 0.9.6 has been released and is available for download via RubyGems. This release contains a few new features and some important bug fixes. For more information, see the <a href="https://groups.google.com/d/topic/bloom-lang/XJVyut4qwO0/discussion">release announcement</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Bud 0.9.6 has been released and is available for download via RubyGems. This release contains a few new features and some important bug fixes. For more information, see the <a href="https://groups.google.com/d/topic/bloom-lang/XJVyut4qwO0/discussion">release announcement</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>2013/02/25/bud-0-9-6-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>bud 0.9.5 released</title>
+		<link>2012/11/24/bud-0-9-5-released/</link>
+		<comments>2012/11/24/bud-0-9-5-released/#comments</comments>
+		<pubDate>Sat, 24 Nov 2012 20:01:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">?p=203</guid>
+		<description><![CDATA[<p>Bud 0.9.5 has been released and is available for download via RubyGems. This release contains several new features, as well as some important bugfixes. It is also compatible with recent releases of ruby_parser and ruby2ruby (3.0.x and 2.0.x, respectively). For more information, see the <a href="https://groups.google.com/d/topic/bloom-lang/5lQ5BNSudus/discussion">release announcement</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Bud 0.9.5 has been released and is available for download via RubyGems. This release contains several new features, as well as some important bugfixes. It is also compatible with recent releases of ruby_parser and ruby2ruby (3.0.x and 2.0.x, respectively). For more information, see the <a href="https://groups.google.com/d/topic/bloom-lang/5lQ5BNSudus/discussion">release announcement</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>2012/11/24/bud-0-9-5-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>bud 0.9.4 released</title>
+		<link>2012/09/06/bud-0-9-4-released/</link>
+		<comments>2012/09/06/bud-0-9-4-released/#comments</comments>
+		<pubDate>Thu, 06 Sep 2012 21:08:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">?p=199</guid>
+		<description><![CDATA[<p>Bud 0.9.4 has been released and is available for download via RubyGems. This release contains a few significant bug fixes and a performance optimization. For more information, see the <a href="https://groups.google.com/d/topic/bloom-lang/EVxweJeUTgM/discussion">release announcement</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Bud 0.9.4 has been released and is available for download via RubyGems. This release contains a few significant bug fixes and a performance optimization. For more information, see the <a href="https://groups.google.com/d/topic/bloom-lang/EVxweJeUTgM/discussion">release announcement</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>2012/09/06/bud-0-9-4-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>bud 0.9.3 released</title>
+		<link>2012/08/20/bud-0-9-3-released/</link>
+		<comments>2012/08/20/bud-0-9-3-released/#comments</comments>
+		<pubDate>Mon, 20 Aug 2012 21:53:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">?p=196</guid>
+		<description><![CDATA[<p>Bud 0.9.3 has been released and is available for download via RubyGems. Although this is a minor release, it contains a number of important bug fixes. See the <a href="https://groups.google.com/d/topic/bloom-lang/3HASilZDNJU/discussion">release announcement</a> for more information.</p>]]></description>
+				<content:encoded><![CDATA[<p>Bud 0.9.3 has been released and is available for download via RubyGems. Although this is a minor release, it contains a number of important bug fixes. See the <a href="https://groups.google.com/d/topic/bloom-lang/3HASilZDNJU/discussion">release announcement</a> for more information.</p>
+]]></content:encoded>
+			<wfw:commentRss>2012/08/20/bud-0-9-3-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>bud 0.9.2 released</title>
+		<link>2012/05/20/bud-0-9-2-released/</link>
+		<comments>2012/05/20/bud-0-9-2-released/#comments</comments>
+		<pubDate>Sun, 20 May 2012 03:29:24 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">?p=193</guid>
+		<description><![CDATA[<p>Bud 0.9.2 has been released and is available for download via RubyGems. This is a minor release; see the <a href="https://groups.google.com/group/bloom-lang/browse_thread/thread/74453bdc655d000a">release announcement</a> for more information.</p>]]></description>
+				<content:encoded><![CDATA[<p>Bud 0.9.2 has been released and is available for download via RubyGems. This is a minor release; see the <a href="https://groups.google.com/group/bloom-lang/browse_thread/thread/74453bdc655d000a">release announcement</a> for more information.</p>
+]]></content:encoded>
+			<wfw:commentRss>2012/05/20/bud-0-9-2-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>bud 0.9.1 released</title>
+		<link>2012/04/10/bud-0-9-1-released/</link>
+		<comments>2012/04/10/bud-0-9-1-released/#comments</comments>
+		<pubDate>Tue, 10 Apr 2012 22:07:08 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">?p=191</guid>
+		<description><![CDATA[<p>Bud 0.9.1 has been released and is available for download via RubyGems. This is a minor release; see the <a href="http://groups.google.com/group/bloom-lang/browse_thread/thread/f03b567cc40cfa07">release announcement</a> for more information.</p>]]></description>
+				<content:encoded><![CDATA[<p>Bud 0.9.1 has been released and is available for download via RubyGems. This is a minor release; see the <a href="http://groups.google.com/group/bloom-lang/browse_thread/thread/f03b567cc40cfa07">release announcement</a> for more information.</p>
+]]></content:encoded>
+			<wfw:commentRss>2012/04/10/bud-0-9-1-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>bud 0.9.0 released</title>
+		<link>2012/03/22/bud-0-9-0-released/</link>
+		<comments>2012/03/22/bud-0-9-0-released/#comments</comments>
+		<pubDate>Thu, 22 Mar 2012 05:02:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">?p=186</guid>
+		<description><![CDATA[<p>Bud 0.9.0 has been released and is available for download via RubyGems. This is a major new release of Bud: it is much faster than the 0.0.x release series, and is also compatible with MRI 1.9 (in addition to 1.8.7). For more information on what is new in this release, see the <a href="http://groups.google.com/group/bloom-lang/browse_thread/thread/b1383224845bab94">release announcement</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Bud 0.9.0 has been released and is available for download via RubyGems. This is a major new release of Bud: it is much faster than the 0.0.x release series, and is also compatible with MRI 1.9 (in addition to 1.8.7). For more information on what is new in this release, see the <a href="http://groups.google.com/group/bloom-lang/browse_thread/thread/b1383224845bab94">release announcement</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>2012/03/22/bud-0-9-0-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>bud 0.0.8 released</title>
+		<link>2012/02/06/bud-0-0-8-released/</link>
+		<comments>2012/02/06/bud-0-0-8-released/#comments</comments>
+		<pubDate>Mon, 06 Feb 2012 04:25:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">?p=179</guid>
+		<description><![CDATA[<p>An updated version of the Bud alpha has been posted to RubyGems. This release can be installed via gem. For more information on what is new in this release, see the <a href="http://groups.google.com/group/bloom-lang/browse_thread/thread/e4e6fe5aed8aef6e">release announcement</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>An updated version of the Bud alpha has been posted to RubyGems. This release can be installed via <tt>gem</tt>. For more information on what is new in this release, see the <a href="http://groups.google.com/group/bloom-lang/browse_thread/thread/e4e6fe5aed8aef6e">release announcement</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>2012/02/06/bud-0-0-8-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>bud 0.0.7 released</title>
+		<link>2011/10/10/bud-0-0-7-released/</link>
+		<comments>2011/10/10/bud-0-0-7-released/#comments</comments>
+		<pubDate>Mon, 10 Oct 2011 23:31:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">?p=176</guid>
+		<description><![CDATA[<p>An updated version of the Bud alpha has been posted to RubyGems. This release can be installed via gem. This release contains a fix for the correctness of the anti-join operator (notin) when no code block has been supplied.</p>]]></description>
+				<content:encoded><![CDATA[<p>An updated version of the Bud alpha has been posted to RubyGems. This release can be installed via <tt>gem</tt>. This release contains a fix for the correctness of the anti-join operator (<tt>notin</tt>) when no code block has been supplied.</p>
+]]></content:encoded>
+			<wfw:commentRss>2011/10/10/bud-0-0-7-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
