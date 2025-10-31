@@ -8,7 +8,7 @@
 <channel>
 	<title>Comments on: calm: consistency as logical monotonicity</title>
 	<atom:link href="../calm/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.bloom-lang.net</link>
+	<link>https://bloom-lang.net</link>
 	<description>Disorderly programming for the cloud and other distributed systems.</description>
 	<lastBuildDate>Wed, 23 Sep 2015 04:40:03 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>

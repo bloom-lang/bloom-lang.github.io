@@ -10,7 +10,7 @@
 <channel>
 	<title>Bloom Programming Language</title>
 	<atom:link href="blog/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.bloom-lang.net</link>
+	<link>https://bloom-lang.net</link>
 	<description>Disorderly programming for the cloud and other distributed systems.</description>
 	<lastBuildDate>Tue, 23 Apr 2013 04:15:35 +0000</lastBuildDate>
 	<language>en-US</language>

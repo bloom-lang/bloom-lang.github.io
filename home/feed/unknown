@@ -8,7 +8,7 @@
 <channel>
 	<title>Comments on: home</title>
 	<atom:link href="home/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.bloom-lang.net</link>
+	<link>https://bloom-lang.net</link>
 	<description>Disorderly programming for the cloud and other distributed systems.</description>
 	<lastBuildDate>Wed, 23 Sep 2015 04:40:03 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -16,7 +16,7 @@
 	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
 		<title>By: What are some cloud programming projects similar to Bloom? - Quora</title>
-		<link>http://www.bloom-lang.net#comment-22</link>
+		<link>https://bloom-lang.net#comment-22</link>
 		<dc:creator><![CDATA[What are some cloud programming projects similar to Bloom? - Quora]]></dc:creator>
 		<pubDate>Mon, 11 Jul 2011 22:54:02 +0000</pubDate>
 		<guid isPermaLink="false">http://www.hellersteins.org/bloom-lang/?page_id=4#comment-22</guid>
@@ -26,7 +26,7 @@
 	</item>
 	<item>
 		<title>By: What are some software libraries for large scale learning? - Quora</title>
-		<link>http://www.bloom-lang.net#comment-20</link>
+		<link>https://bloom-lang.net#comment-20</link>
 		<dc:creator><![CDATA[What are some software libraries for large scale learning? - Quora]]></dc:creator>
 		<pubDate>Mon, 11 Jul 2011 04:37:28 +0000</pubDate>
 		<guid isPermaLink="false">http://www.hellersteins.org/bloom-lang/?page_id=4#comment-20</guid>
@@ -36,7 +36,7 @@
 	</item>
 	<item>
 		<title>By: What are some good resources for learning about distributed computing? - Quora</title>
-		<link>http://www.bloom-lang.net#comment-19</link>
+		<link>https://bloom-lang.net#comment-19</link>
 		<dc:creator><![CDATA[What are some good resources for learning about distributed computing? - Quora]]></dc:creator>
 		<pubDate>Mon, 11 Jul 2011 04:34:47 +0000</pubDate>
 		<guid isPermaLink="false">http://www.hellersteins.org/bloom-lang/?page_id=4#comment-19</guid>
